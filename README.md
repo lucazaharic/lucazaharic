@@ -12,14 +12,14 @@ Você pode usar o site para gerar crachás: https://shields.io/
 
 
 <!-- Falando sobre você -->
-**Falando sobre Coisas Pessoais:**
+**Sobre mim:**
 
 <!-- Qualquer imagem alinhada à direita. Cuidado com a largura -->
+👨‍🎓Estudante de Sistemas de Informação na FIAP, com previsão de conclusão em 2025. Minha paixão pela programação me levou a buscar uma formação acadêmica e profissional na área, com foco em JavaScript, HTML, CSS, Java e TypeScript. Além dessas linguagens, estou aberto a aprender qualquer outra que seja necessária para o desenvolvimento de soluções inovadoras e eficientes.
 
+**Experiencia:**
 
-- 👨🏽‍💻 Atualmente estou aberto para trabalho!
-- 🌱 Atualmente estou aprendendo Kotlin, Flutter e Typescript.
-- 📫 Como me contatar: lucazaharic@gmail.com;
+💻Em 2022, tive a oportunidade de realizar um estágio na 01 Digital, uma empresa de desenvolvimento de aplicativos móveis. Lá, pude aplicar e aprimorar meus conhecimentos em Java e Angular, além de trabalhar com planilhas do Excel e fazer Q.A e relatar bugs nos apps. Foi uma experiência enriquecedora, que me permitiu colaborar com uma equipe de profissionais talentosos e contribuir para projetos desafiadores.
 
 **Linguagens e Ferramentas:** 
 
