@@ -1,9 +1,6 @@
-<!-- Seu título -->
+
 ## Olá, eu sou Luca Zaharic, um Desenvolvedor 🚀 do Brasil.
 
-<!-- Seus crachás
-Você pode usar o site para gerar crachás: https://shields.io/
--->
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/lucazaharic)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/luca-moraes-zaharic-a705a422a/)
@@ -11,10 +8,10 @@ Você pode usar o site para gerar crachás: https://shields.io/
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:lucazaharic@gmail.com)
 
 
-<!-- Falando sobre você -->
+
 **Sobre mim:**
 
-<!-- Qualquer imagem alinhada à direita. Cuidado com a largura -->
+
 👨‍🎓Estudante de Sistemas de Informação na FIAP, com previsão de conclusão em 2025. Minha paixão pela programação me levou a buscar uma formação acadêmica e profissional na área, com foco em JavaScript, HTML, CSS, Java e TypeScript. Além dessas linguagens, estou aberto a aprender qualquer outra que seja necessária para o desenvolvimento de soluções inovadoras e eficientes.
 
 **Experiencia:**
@@ -29,14 +26,14 @@ Você pode usar o site para gerar crachás: https://shields.io/
   </a>
 
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/json/json-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
   <br/>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/javascript/javascript-horizontal.svg"></code>
   <br />
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
+    <code><img width="10%" src="https://www.vectorlogo.zone/logos/json/json-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-ar21.svg"></code>
 </p>
