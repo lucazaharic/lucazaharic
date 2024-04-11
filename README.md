@@ -16,7 +16,7 @@
 
 **Experiencia:**
 
-💻Em 2022, tive a oportunidade de realizar um estágio na 01 Digital, uma empresa de desenvolvimento de aplicativos móveis. Lá, pude aplicar e aprimorar meus conhecimentos em Java e Angular, além de trabalhar com planilhas do Excel e fazer Q.A e relatar bugs nos apps. Foi uma experiência enriquecedora, que me permitiu colaborar com uma equipe de profissionais talentosos e contribuir para projetos desafiadores.
+💻Em 2022, tive a oportunidade de realizar um estágio na 01 Digital, uma empresa de desenvolvimento de aplicativos móveis. Lá, pude aplicar e aprimorar meus conhecimentos em programacao, além de trabalhar com planilhas do Excel e fazer Q.A e relatar bugs nos apps. Foi uma experiência enriquecedora, que me permitiu colaborar com uma equipe de profissionais talentosos e contribuir para projetos desafiadores.
 
 **Linguagens e Ferramentas:** 
 
